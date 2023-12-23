@@ -31,7 +31,7 @@ export default function App(){
 
  return(
    <>
-   <h1 className="text1 text2"> Quick links</h1>
+   <h1 className="text1 text2"> Link Shorter</h1>
 
      <div className=" main-container ">
 
